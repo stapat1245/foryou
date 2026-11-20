@@ -1,0 +1,8 @@
+.git
+.gitignore
+__pycache__
+*.pyc
+preview.gif
+README.md
+LICENSE.txt
+web/data/.built
